@@ -1,0 +1,8 @@
+link for icons
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkllcmRSMjZsQkFDRzllZ20ybVlVOXg0OEk1QXxBQ3Jtc0ttWTdkUXdGcGY1V1ZUd3ItbjNOTXh2UWdnVzBxbklzLTBPaDRCcHIyTy1kYVJWRm5VQjFrY2dtWjR4aEFGMGVFeGRrcFlRNWhVNkxrdjhfUHFYSXdZcVEzQVQyWWdSY2pjYUQ3WGxoQmpLbkROSUlpNA&q=https%3A%2F%2Funpkg.com%2Fionicons%405.4.0%2Fdist%2Fionicons.js&v=CQZxeoQeo5c
+
+link paste for icons
+
+https://unpkg.com/ionicons@5.4.0/dist/ionicons.js
+
